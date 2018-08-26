@@ -23,7 +23,7 @@ You can go through the following resources to understand the concept of end-to-e
 
 Refer to the file **tutorial.ipynb** now for the detailed tutorial.
 
-A video of the final result of this tutorial:
+A video of the final result of this tutorial (Click on the below image):
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cMEUmcrLJdw
 " target="_blank"><img src="http://img.youtube.com/vi/cMEUmcrLJdw/0.jpg" 
