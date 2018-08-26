@@ -1,4 +1,4 @@
-# End-to-end Learning  for Self-driving Cars
+# End-to-end Learning for Self-driving Cars
 
 
 ## Introduction
@@ -11,15 +11,20 @@ You can go through the following resources to understand the concept of end-to-e
 - [Udacity Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
 
 ### Overview of the tutorial:
-- Project Environment Setup
+- **Project Environment Setup**
 
-- Data collection and Preprocessing
+- **Data collection and Preprocessing**
 
-- Data Augmentation
+- **Data Augmentation**
 
-- Design CNN to Clone Car's Behavior
+- **Design CNN to Clone Car's Behavior**
 
-- Testing the Performance of the Learning Model
+- **Testing the Performance of the Learning Model**
 
 Refer to the file **tutorial.ipynb** now for the detailed tutorial.
-# End2End_Learning_of_Self_Driving_Cars
+
+A video of the final result of this tutorial:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cMEUmcrLJdw
+" target="_blank"><img src="http://img.youtube.com/vi/cMEUmcrLJdw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="540" height="180" border="10" /></a>
