@@ -21,7 +21,7 @@ You can go through the following resources to understand the concept of end-to-e
 
 - **Testing the Performance of the Learning Model**
 
-Refer to the file **tutorial.ipynb** now for the detailed tutorial.
+Refer to the file- **tutorial.ipynb** for the detailed tutorial.
 
 A video of the final result of this tutorial (Click on the below image):
 
