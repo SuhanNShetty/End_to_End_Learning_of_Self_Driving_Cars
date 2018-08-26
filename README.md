@@ -21,5 +21,5 @@ You can go through the following resources to understand the concept of end-to-e
 
 - Testing the Performance of the Learning Model
 
-Refer to the file *tutorial.ipynb* for details.
+Refer to the file **tutorial.ipynb** now for the detailed tutorial.
 # End2End_Learning_of_Self_Driving_Cars
